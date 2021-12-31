@@ -7,7 +7,7 @@ Servo servo_2;
 Servo servo_3;
 Servo servo_4;
 
-//customized parameters for servos
+//customized parameters for servos // may vary from servos
 int pos_initial_1 = 74;
 int pos_initial_2 = 100;
 int pos_initial_3 = 92;
