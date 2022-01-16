@@ -1,6 +1,6 @@
 /*-Rocket Fin Control System-*/
 /*The side fin control system is developed based on PID algorithm*/
-/*The system follows Fin_activation -> Fin_test -> open_loop_PID Process*/
+/*The system follows Fin_activation -> Fin_test -> close_loop_PID Process*/
 /*Author: Bingcheng Suo*/
 /*01/15/2022*/
 
